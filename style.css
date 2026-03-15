@@ -11,7 +11,7 @@ body{
  width: 320px;
 }
 .display {
-    background-color: #1a1a2e;
+    background-color: #272738;
     text-align: right;
     padding: 20px;
     border-radius: 16px 16px 0 0;
@@ -29,4 +29,12 @@ body{
     grid-template-columns: repeat(4, 1fr);
     gap: 8px;
     padding: 12px;
+}
+button{
+    background-color: #e0e0e0;
+    border: none;
+    border-radius: 8px;
+    font-size: 1.2rem;
+    padding: 16px;
+    cursor: pointer;
 }
